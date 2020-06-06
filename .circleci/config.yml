@@ -24,7 +24,7 @@ keys:
 - run:
 name: install dependencies
 command: |
-python3 -m venv venv
+  python3 -m venv venv
 . venv/bin/activate
 make install
 # Install hadolint
