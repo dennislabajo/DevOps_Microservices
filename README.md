@@ -1,4 +1,4 @@
-[![dennislabajo](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/DevOps_Microservices)
+[![dennislabajo](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/dennislabajo/DevOps_Microservices)
 
 ## Project Overview
 
