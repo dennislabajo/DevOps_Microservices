@@ -3,7 +3,7 @@
 ## Complete the following steps to get Docker running locally
 VERSION=v.2
 NAME=devops_microservices
-ID=dlabajo
+ID=<YOUR DOCKER HUB ID>
 PORT=8080
 dockerpath=$ID/$NAME
 

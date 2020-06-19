@@ -3,7 +3,7 @@
 # This tags and uploads an image to Docker Hub
 VERSION=v.3
 NAME=devops_microservices
-ID=dlabajo
+ID=<YOUR DOCKER HUB ID>
 APP_NAME=devops-microsvc-app
 EXPOSE_PORT=8080
 TARGET_PORT=80

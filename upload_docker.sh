@@ -5,7 +5,7 @@
 VERSION=v.3
 OLD_VERSION=v.2
 NAME=devops_microservices
-ID=dlabajo
+ID=<YOUR DOCKER HUB ID>
 
 # Step 1:
 # Create dockerpath
